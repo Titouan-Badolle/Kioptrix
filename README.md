@@ -1,6 +1,6 @@
 # Compte Rendu : Pentest Kioptrix Level 1
 
-**Auteur :** Badolel Titouan
+**Auteur :** Badolle Titouan
 **Date :** 24 Novembre 2025
 **Cible :** Kioptrix Level 1
 
