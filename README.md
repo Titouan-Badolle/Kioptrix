@@ -11,8 +11,6 @@ J'ai configuré un réseau privé isolé (Host-Only) pour effectuer le test d'in
 * **Ma machine (Kali) :** `192.168.195.3`
 * **Machine Cible (Kioptrix) :** `192.168.195.5`
 
-*Note : J'ai dû changer la carte réseau de la Kioptrix pour une "PCnet-PCI II" car elle ne détectait pas le réseau par défaut.*
-
 ## 2. Reconnaissance
 
 ### 2.1 Découverte de l'IP
