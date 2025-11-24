@@ -1,6 +1,6 @@
 # Compte Rendu : Pentest Kioptrix Level 1
 
-**Auteur :** [Ton Nom]
+**Auteur :** Badolel Titouan
 **Date :** 24 Novembre 2025
 **Cible :** Kioptrix Level 1
 
@@ -57,5 +57,3 @@ Une session s'est ouverte. J'ai vérifié mes droits :
 
 J'ai ensuite récupéré le message de félicitations dans les mails du root :
 * **Commande :** `cat /var/spool/mail/root`
-
-*[INSÉRER LA CAPTURE D'ÉCRAN DU MAIL ICI]*
