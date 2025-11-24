@@ -50,7 +50,7 @@ J'ai lancé la commande `exploit`. Après quelques tentatives de "Brute Force" (
 ## 4. Preuve de réussite
 Une session s'est ouverte. J'ai vérifié mes droits :
 
-<img width="443" height="42" alt="image" src="https://github.com/user-attachments/assets/80bedf27-a5be-4162-9563-c6e71c9fcb5a" />
+t<img width="443" height="42" alt="image" src="https://github.com/user-attachments/assets/80bedf27-a5be-4162-9563-c6e71c9fcb5a" />
 
 
 * **Commande :** `whoami`
